@@ -1,0 +1,11 @@
+name: WorldGen
+version: 1.0.0BETA
+main: org.stormtrooper007.WorldGen.Plugin
+load: startup
+api-version: 1.14
+commands:
+  tpll:
+    description: Teleports you to the Coordinate provided
+    usage: /<command> lon lat
+    permission: <Plugin Name>.tpll
+    permission-message: You dont have <permission>

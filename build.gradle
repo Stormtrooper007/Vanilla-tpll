@@ -1,0 +1,31 @@
+plugins {
+    id 'java'
+    id "com.github.johnrengelman.shadow" version "6.0.0"
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+repositories {
+    maven {
+        url = 'https://hub.spigotmc.org/nexus/content/repositories/snapshots/'
+    }
+    maven {
+        url = 'https://oss.sonatype.org/content/repositories/snapshots'
+    }
+}
+
+sourceCompatibility = '1.8'
+targetCompatibility = '1.8'
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compileOnly 'org.spigotmc:spigot-api:1.14.4-R0.1-SNAPSHOT'
+    implementation 'org.apache.commons:commons-imaging:1.0-alpha1'
+    implementation 'commons-io:commons-io:2.7'
+    compile 'org.jetbrains:annotations:16.0.2'
+}

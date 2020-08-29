@@ -1,0 +1,33 @@
+org/stormtrooper007/WorldGen/projection/EqualEarth.java
+ org.stormtrooper007.WorldGen.projection.EqualEarth
+org/stormtrooper007/WorldGen/projection/ImageProjection.java
+ org.stormtrooper007.WorldGen.projection.ImageProjection
+org/stormtrooper007/WorldGen/projection/ProjectionTransform.java
+ org.stormtrooper007.WorldGen.projection.ProjectionTransform
+org/stormtrooper007/WorldGen/projection/ModifiedAirocean.java
+ org.stormtrooper007.WorldGen.projection.ModifiedAirocean
+org/stormtrooper007/WorldGen/projection/CenteredMapsProjection.java
+ org.stormtrooper007.WorldGen.projection.CenteredMapsProjection
+org/stormtrooper007/WorldGen/projection/SinusoidalProjection.java
+ org.stormtrooper007.WorldGen.projection.SinusoidalProjection
+org/stormtrooper007/WorldGen/Plugin.java
+ org.stormtrooper007.WorldGen.Plugin
+org/stormtrooper007/WorldGen/projection/ConformalEstimate.java
+ org.stormtrooper007.WorldGen.projection.ConformalEstimate
+org/stormtrooper007/WorldGen/projection/TransverseMercatorProjection.java
+ org.stormtrooper007.WorldGen.projection.TransverseMercatorProjection
+org/stormtrooper007/WorldGen/projection/MapsProjection.java
+ org.stormtrooper007.WorldGen.projection.MapsProjection
+org/stormtrooper007/WorldGen/projection/ScaleProjection.java
+ org.stormtrooper007.WorldGen.projection.ScaleProjection
+org/stormtrooper007/WorldGen/projection/InvertedOrientation.java
+ org.stormtrooper007.WorldGen.projection.InvertedOrientation
+org/stormtrooper007/WorldGen/projection/Airocean.java
+ org.stormtrooper007.WorldGen.projection.Airocean
+org/stormtrooper007/WorldGen/projection/InvertableVectorField.java
+ org.stormtrooper007.WorldGen.projection.InvertableVectorField
+org/stormtrooper007/WorldGen/projection/GeographicProjection.java
+ org.stormtrooper007.WorldGen.projection.GeographicProjection
+ org.stormtrooper007.WorldGen.projection.GeographicProjection$Orientation
+org/stormtrooper007/WorldGen/projection/UprightOrientation.java
+ org.stormtrooper007.WorldGen.projection.UprightOrientation
